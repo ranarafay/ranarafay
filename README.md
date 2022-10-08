@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Programmer and Developer from <img src="https://media.istockphoto.com/vectors/flag-of-pakistan-vector-id472330681?k=20&m=472330681&s=612x612&w=0&h=5Qdo76qlQlFIqKDir3kldQB_cgQ227WC0irPs1PxIN4=" height=11.5 width=18/></h3>
 <br>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
-
+<br>
 - 🎓 Bachelor's in Computer Sciences from **FAST NUCES** <a href="http://isb.nu.edu.pk/" target="_blank" rel="noreferrer"> <img src="http://isb.nu.edu.pk/assets/images/logo.png" alt="university logo" width="15" height="15"/> </a>
 
 - 👨‍💻 Working as Developer in **Google Developer's Student Club**
