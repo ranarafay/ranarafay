@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **Love fixing bugs ;)**
 
-- 📧 Drop mail &nbsp;&nbsp;<a href="mailto:p200636@nu.edu.pk" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="" height="20" width="30" /></a>
+- 📧 Drop mail &nbsp;&nbsp;<a href="mailto:p200636@nu.edu.pk" target="_blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="" height="20" width="30" /></a>
 <hr>
 <h3 align="center">Find me on:</h3>
 <p align="center">
