@@ -4,7 +4,8 @@
 <br>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
 <br>
-- 🎓 Bachelor's in Computer Sciences from **FAST NUCES** <a href="http://isb.nu.edu.pk/" target="_blank" rel="noreferrer"> <img src="http://isb.nu.edu.pk/assets/images/logo.png" alt="university logo" width="15" height="15"/> </a>
+
+- 🎓  Bachelor's in Computer Sciences from **FAST NUCES** <a href="http://isb.nu.edu.pk/" target="_blank" rel="noreferrer"> <img src="http://isb.nu.edu.pk/assets/images/logo.png" alt="university logo" width="15" height="15"/> </a>
 
 - 👨‍💻 Working as Developer in **Google Developer's Student Club**
 
